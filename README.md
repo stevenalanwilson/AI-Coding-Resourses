@@ -9,6 +9,7 @@
 - [Claude memories](https://www.reddit.com/answers/ad2b3441-0018-49b1-9586-b4395c560979/?q=Claude+memories&source=SERP&upstreamCID=cbd1af04-802f-4fa3-9e7b-0a619dcf385e&upstreamIID=6a091c13-96e7-41c9-a4f6-57415d408404&upstreamQ=Claude+memories&upstreamQID=65c856e3-4d0a-415d-8bc7-ac60dd6e388c)
 - [Claude refactoring](https://www.reddit.com/answers/8ead0901-3214-44cd-b330-b75556855448/?q=Claude+refactoring&source=SERP&upstreamCID=c3b43424-a88f-44b2-bfbc-a7c37b25af1f&upstreamIID=3a77b747-edbe-4941-a07b-15a64e62a45b&upstreamQ=Claude+refactoring&upstreamQID=b2da87da-e39b-4814-bd0e-0b7d79a62005)
 - [Example CLAUDE.md for a large project](https://gist.github.com/leogodin217/5fb398cf51c2081eae33682f01ebcaea)
+- [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
 
 ## Tooling 
 
