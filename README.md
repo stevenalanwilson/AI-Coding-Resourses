@@ -20,3 +20,9 @@
 
 - [AI Agent Best Practices: 12 Lessons from AI Pair Programming for Developers](https://forgecode.dev/blog/ai-agent-best-practices/)
 - [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
+- [How I use Claude Code (+ my best tips by Steve Sewell)](https://www.builder.io/blog/claude-code)
+
+## Clude Development Setups
+
+- [Claude Agents Collection](https://github.com/Kacep91/claude-agents) plus [explination of workflow](https://www.reddit.com/r/ClaudeAI/comments/1mx255o/a_brief_guide_to_setting_up_claude_code_from/)
+- [Claude Code Development Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit/tree/main)
