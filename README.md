@@ -16,7 +16,7 @@
 - [Claude Code Github Action](https://github.com/anthropics/claude-code-action)
 - [Claude Code Skills examples by Anthropic](https://github.com/anthropics/skills)
 
-## General guides & how toos on AI coding 
+## General guides, Articles and how-tos on AI coding
 
 - [AI Agent Best Practices: 12 Lessons from AI Pair Programming for Developers](https://forgecode.dev/blog/ai-agent-best-practices/)
 - [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
